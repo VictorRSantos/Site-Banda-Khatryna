@@ -1,0 +1,21 @@
+@charset "utf-8";
+.rodape {
+	height: 100px;
+	width: 1024px;
+	float: left;
+	background-color: #FFF;
+	position: static;
+}
+.dir {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	margin-left: 200px;
+	margin-top: 180px;
+}
+
+.img {
+	float: left;
+	height: 100px;
+	width: 200px;
+	background-color: #0F3;
+}

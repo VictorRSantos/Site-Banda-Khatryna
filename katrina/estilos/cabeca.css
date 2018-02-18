@@ -1,0 +1,9 @@
+.cabeca {
+	height: 150px;
+	width: 1024px;
+	float: left;
+	position: relative;
+	background-repeat: no-repeat;
+	background-color: #000;
+	background-image: url(../fotos/CABECA.jpg);
+}

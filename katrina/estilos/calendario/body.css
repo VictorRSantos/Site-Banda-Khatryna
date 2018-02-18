@@ -1,0 +1,9 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+	background-attachment: scroll;
+	background-image: url(../../fotos/ddesenhos-de-caveiras-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}

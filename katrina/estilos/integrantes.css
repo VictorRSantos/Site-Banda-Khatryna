@@ -1,0 +1,25 @@
+@charset "utf-8";
+.int {
+	background-color: #F33;
+	height: 300px;
+	width: 1024px;
+	float: left;
+	margin-bottom: 10px;
+}
+.int4 {
+	background-color: #F33;
+	height: 300px;
+	width: 1024px;
+	float: left;
+	margin-bottom: 10px;
+	background-image: url(../fotos/renam.jpg);
+	background-repeat: no-repeat;
+}
+.mort1 {
+	float: left;
+	height: 410px;
+	width: 799px;
+	position: relative;
+	background-image: url(../fotos/zumbi2.jpg);
+	background-repeat: no-repeat;
+}
